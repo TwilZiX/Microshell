@@ -20,6 +20,6 @@ Then run with
 
 Use
 ```
-./Microshell
+help
 ```
 to print list with my self-made functions
