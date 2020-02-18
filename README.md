@@ -1,5 +1,25 @@
-<h1>How to open and use my Microshell</h1>
-1. Open terminal and go to folder with my files
-2. Type "make" in your terminal
-3. type "./Microshell"
-And there it is!
+# Microshell
+
+Written in C with self-made functions like recursive copying
+
+### Building and running
+
+Go to directory with this app and build with command
+
+```
+make
+```
+
+Then run with
+
+```
+./Microshell
+```
+
+### Running the tests
+
+Use
+```
+./Microshell
+```
+to print list with my self-made functions
